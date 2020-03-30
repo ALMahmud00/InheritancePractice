@@ -1,0 +1,11 @@
+C:\Users\mahmud\source\repos\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.csprojAssemblyReference.cache
+C:\Users\mahmud\source\repos\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.AssemblyInfoInputs.cache
+C:\Users\mahmud\source\repos\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.AssemblyInfo.cs
+C:\Users\mahmud\source\repos\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.exe
+C:\Users\mahmud\source\repos\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.deps.json
+C:\Users\mahmud\source\repos\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.runtimeconfig.json
+C:\Users\mahmud\source\repos\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.runtimeconfig.dev.json
+C:\Users\mahmud\source\repos\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.dll
+C:\Users\mahmud\source\repos\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.pdb
+C:\Users\mahmud\source\repos\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.dll
+C:\Users\mahmud\source\repos\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.pdb
