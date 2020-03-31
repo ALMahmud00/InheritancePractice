@@ -4,14 +4,15 @@ using System.Text;
 
 namespace InheritancePractice
 {
-    class Shape
+   class Shape
     {
-        protected string color = "red";
-        protected bool filled = true;
+        protected string color;
+        protected bool filled;
 
         public Shape()
         {
-
+            color = "red";
+            filled = true;
         }
         public Shape(string color, bool filled)
         {

@@ -6,11 +6,11 @@ namespace InheritancePractice
 {
     class Square : Rectangle
     {
-        protected double side = 1.0;
+        protected double side;
 
         public Square()
         {
-
+            side = 1.0;
         }
         public Square(double side)
         {
@@ -36,6 +36,8 @@ namespace InheritancePractice
         {
             Console.WriteLine("Square Area: " + side*side);
             Console.WriteLine("Square Perimeter: " + 4 * side);
+            Console.WriteLine("Square Color: " + color);
+            Console.WriteLine("Square Fill: " + filled);
         }
 
     }

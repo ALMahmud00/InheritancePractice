@@ -4,14 +4,15 @@ using System.Text;
 
 namespace InheritancePractice
 {
-    class Rectangle : Shape
+     class Rectangle : Shape
     {
-        protected double width = 1.0;
-        protected double length = 1.0;
+        protected double width;
+        protected double length;
 
         public Rectangle()
         {
-            
+            width = 1.0;
+            length = 1.0;
         }
 
         public Rectangle(double width, double length)
@@ -40,6 +41,8 @@ namespace InheritancePractice
         {
             Console.WriteLine("Reactangle Area: " + width * length);
             Console.WriteLine("Rectangle Perimeter: "+ 2 * (width + length));
+            Console.WriteLine("Rectangle Color: " + color);
+            Console.WriteLine("Rectangle Fill: " + filled);
         }
 
     }

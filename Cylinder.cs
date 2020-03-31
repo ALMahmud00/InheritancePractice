@@ -6,11 +6,11 @@ namespace InheritancePractice
 {
     class Cylinder : Circle
     {
-        private double height = 1.0;
+        private double height;
 
         public Cylinder() 
         {
-                    
+            height = 1.0;
         }
 
         public Cylinder(double height)
@@ -42,6 +42,8 @@ namespace InheritancePractice
         {
             Console.WriteLine("Cylinder Area: " + (2 * 3.14 * radius * (height + radius)));
             Console.WriteLine("Cylinder Perimeter: " + (2 * 3.14 * radius));
+            Console.WriteLine("Cylinder Color: " + color);
+            Console.WriteLine("Cylinder Fill: " + filled);
         }
 
 

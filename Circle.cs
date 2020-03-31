@@ -6,13 +6,13 @@ namespace InheritancePractice
 {
     class Circle : Shape
     {
-        protected double radius = 1.0;
-/*
+        protected double radius;
+
         public Circle()
         {
-
+            radius = 1.0;
         }
-*/
+
         public Circle(double radius)
         {
             this.radius = radius;
@@ -36,6 +36,8 @@ namespace InheritancePractice
         {
             Console.WriteLine("Circle Area: "+ (3.14 * radius * radius));
             Console.WriteLine("Circle Perimeter: " + (2* 3.14 * radius));
+            Console.WriteLine("Circle Color: " + color);
+            Console.WriteLine("Circle Fill: " + filled);
         }
 
     }
